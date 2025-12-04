@@ -1,5 +1,5 @@
 
-# 🎬 IMDb Movie & Series BI Pipeline Project
+# 🎬 Media Content Insights & Metadata Analytics Platform 
 
 ---
 
